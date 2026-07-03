@@ -163,18 +163,6 @@ Possible future updates include:
 - Unity 2022 or newer
 - Windows PC
 
-## How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/yourrepository.git
-```
-
-2. Open the project in Unity Hub
-3. Load the main scene
-4. Press Play inside the Unity Editor
-
 ---
 
 # Project Structure
@@ -205,7 +193,17 @@ Tools and technologies used:
 
 # Screenshots
 
-Add gameplay screenshots here.
+<p align="center">
+  <img src="Screenshots/main menu.png" width="700">
+</p>
+
+<p align="center">
+  <img src="Screenshots/gameplay.png" width="700">
+</p>
+
+<p align="center">
+  <img src="Screenshots/Pause_Game_over screen" width="700">
+</p>
 
 ---
 
