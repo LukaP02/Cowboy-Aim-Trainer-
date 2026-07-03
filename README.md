@@ -202,7 +202,8 @@ Tools and technologies used:
 </p>
 
 <p align="center">
-  <img src="Screenshots/Pause_Game_over screen" width="700">
+  <img src="Screenshots/Pause_Game_over screen.png
+" width="700">
 </p>
 
 ---
